@@ -6,7 +6,7 @@ key = config.get('Yobit', 'Key')
 secret = config.get('Yobit', 'Secret')
 secret = bytes(secret, 'utf8')
 
-/* config.txt File *
+/* config.txt File */
 [Yobit]
 Key =
 Secret =
