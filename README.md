@@ -16,6 +16,7 @@ secret = bytes(secret, 'utf8')
 
 [Yobit]
 Key = xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 Secret = xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 /* On error add # at the end of the Secret Key */
